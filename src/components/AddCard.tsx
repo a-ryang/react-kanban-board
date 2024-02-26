@@ -4,8 +4,8 @@ import { Plus } from "lucide-react";
 import useCards from "@/hooks/useCards";
 import { Card } from "@/types/Card";
 
-import { Button } from "./ui/button";
-import { Textarea } from "./ui/textarea";
+import { Button } from "./ui/Button";
+import { Textarea } from "./ui/Textarea";
 
 type Props = {
   column: string;
